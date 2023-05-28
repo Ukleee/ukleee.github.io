@@ -6,7 +6,7 @@
 [Thermal-Depth Odometry in Challenging Illumination Conditions](https://ieeexplore.ieee.org/document/10111061) \\
 Xingxin Chen, WeiChen Dai, **Jiajun Jiang**, Bin He, Yu Zhang\*
 
-[**Video**](https://drive.google.com/file/d/1xwsIDZmCRzmq6NgxsMogHuh1nILGDYbJ/view) \| 
+[**Video**](https://drive.google.com/file/d/1xwsIDZmCRzmq6NgxsMogHuh1nILGDYbJ/view) \| [**PDF**](files/Thermal-Depth_Odometry_in_Challenging_Illumination_Conditions.pdf)
 </div>
 </div>
 
@@ -16,6 +16,6 @@ Xingxin Chen, WeiChen Dai, **Jiajun Jiang**, Bin He, Yu Zhang\*
 [Thermal-Inertial SLAM for the Environments with Challenging Illumination](https://ieeexplore.ieee.org/document/9804793) \\
 **Jiajun Jiang**, Xingxin Chen, WeiChen Dai, Zelin Gao, and Yu Zhang\*
 
-[**Video**](https://www.bilibili.com/video/BV1T94y1U7Ec) \| 
+[**Video**](https://www.bilibili.com/video/BV1T94y1U7Ec) \| [**PDF**](files/Thermal-Inertial_SLAM_for_the_Environments_With_Challenging_Illumination.pdf)
 </div>
 </div>
