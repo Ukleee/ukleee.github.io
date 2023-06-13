@@ -10,6 +10,9 @@
 Algorithm Engineer, 2022.07 - Present
 </span>
 
+Supervised by: 
+<a href="https://scholar.google.com/citations?user=G6IztksAAAAJ&hl=en">Dr. Sheng Yang (杨晟)</a>
+
 Working on lidar localization algorithm for self-driving trucks and logistics robots.
 
 </div>
@@ -25,7 +28,10 @@ Working on lidar localization algorithm for self-driving trucks and logistics ro
 Algorithm Engineering Intern, 2021.04 - 2021.09
 </span>
 
-Working on calibration algorithm for logistics robots.
+Supervised by: 
+<a href="https://scholar.google.com/citations?user=DK-ls48AAAAJ&hl=en">Dr. Mingyang Li (李名杨)</a>
+
+Working on calibration algorithm for logistics robots. 
 
 </div>
 </div>
