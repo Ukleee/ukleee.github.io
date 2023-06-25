@@ -46,7 +46,15 @@ Working on calibration algorithm for logistics robots.
 Circuit Group Leader, 2018.07 - 2019.09
 </span>
 
-Developing circuit system for humanoid kid-size soccer robots.
+Developing circuit system for humanoid kid-size soccer robots, especially on foot pressure sensor board.
+
+Click 
+<a href="files/Foot_Pressure_Sensor_Board.pdf">here</a>
+ to see more info about foot pressure sensor board.
+
+[**Bilibili**](https://www.bilibili.com/video/BV1U3411k7BA/) \| [**YouTube**](https://www.youtube.com/watch?v=QIA58LqKeM8) \| [**Team Description Paper**](https://tdp.robocup.org/wp-content/uploads/tdp/robocup/2019/robocupsoccer-humanoid-kidsize/zjudancer-119/robocup-2019-robocupsoccer-humanoid-kidsize-zjudancerlgVZy4hvHW.pdf)
+
+
 
 </div>
 </div>
